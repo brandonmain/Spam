@@ -1,2 +1,2 @@
 # Spam
-Spam filter implented on real world sms messages utilizing a Naive Bayes Classifier
+Spam filter implemented on real world sms messages utilizing a Naive Bayes Classifier
